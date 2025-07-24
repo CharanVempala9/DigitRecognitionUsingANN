@@ -15,8 +15,8 @@ This project implements a **Multilayer Perceptron (MLP)** neural network using *
 ## 🚀 Demo
 
 👉 **Interactive Demo:** [Coming Soon – TF.js Version]  
-👉 **Model File:** [`digits_recognition_mlp.h5`](./digits_recognition_mlp.h5)
-
+👉 **Model File:** [`digits_recognition_mlp.h5`](https://trekhleb.dev/machine-learning-experiments/#/experiments/DigitsRecognitionMLP
+)   
 ---
 
 ## 🎯 Features
